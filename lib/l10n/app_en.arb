@@ -1,0 +1,12 @@
+{
+    "doctorTitle" : "Heart Surgeon",
+    "services" : "Services",
+    "mainInfo" : "Main Information",
+    "viewMore" : "View More",
+    "totalPatients" : "Total Patients",
+    "resolvedIssues" : "Resolved Issues",
+    "goodReviews" : "Good Reviews",
+    "bethany" : "Bethany Medical Clinic",
+    "central" : "Central Medical Clinic",
+    "button" : "Make Appointment"
+}
